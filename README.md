@@ -1,5 +1,5 @@
 
-![](/images/hh_logo.jpg)
+![](/images/hh_logo.jpeg)
 # <center> Project on intelligence analysis of data on vacancies HH.ru </center>
 ## Contents
 1. [Project description](#Project-description)
