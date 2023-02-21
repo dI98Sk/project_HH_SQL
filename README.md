@@ -1,6 +1,6 @@
 
 ![](/images/hh_logo.jpg)
-# <center> Project: Resume analysis for HH.ru </center>
+# <center> Project on intelligence analysis of data on vacancies HH.ru </center>
 ## Contents
 1. [Project description](#Project-description)
 2. [About Structure](#About%20Structure)
@@ -15,35 +15,32 @@
 
 
 Main stage of Project:
-* Formulation of the problem.
-* Data structure research.
-* Data preparation.
-* Exploring data dependencies.
-* Data cleaning.
+* Preliminary data analysis.
+* Detailed analysis of the job market.
+* Detailed study of employers.
+* Subject analysis of the IT area.
 
 
 
 
-**Purpose of formulation of the problem** — 
-By setting the task, we understand the acquaintance with the data and the initial preparation of the data for work.
 
-**Purpose of data structure research** — 
-The research of the data structure is understood as the division of some features into several more informative ones. The study of the diversity of features obtained from the database. Suggestion for future work.
+**Purpose of preliminary data analysis** — 
+The study of the main quantitative indicators.
 
-**Purpose of data data preparation** — 
-Data preparation includes a deeper study of features and their comparison with each other.
+**Purpose of detailed analysis of the job market.** — 
+Consideration of the main dependencies between tables, and the formation of conclusions based on their comparison..
+
+**Purpose of detailed study of employers.** — 
+Formation of requests that allows you to establish the importance of some representatives to the market as a whole..
 
 **Purpose of exploring data dependencies** — 
-The study of dependencies in data refers to the construction of pivot tables and the visualization of graphs to form an understanding of the need for further transformations. Based on the information obtained at this stage, we can get an understanding of the trends in the studied traits, outliers and traits that require detailed study.
+Subject analysis of the IT area.
 
-**Purpose of data cleaning** — 
-Drop "trash", that can interfere with the simulation or distort his result. In many tasks data cleaning - this is main part of stage of preparation data to build a model. 
-For that need a lot of time to work.
 
 **Adout Structure:**
-* [data](./data) - folder with general and additional data base
+* [images](./images) - folder with additional pictures for decoration. .
 * [plotly](./plotly) - folder with picture of diagrams from main file.
-* [Project-1. Main-File.ipynb](./Project-1.%20Main-File.ipynb.ipynb) - jupyter-notebook, contained main code of project.
+* [mainFile.ipynb](./mainFile.ipynb) - jupyter-notebook, contained main code of project.
 
 
 ## Data Description
